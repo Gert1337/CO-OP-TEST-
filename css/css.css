@@ -2,3 +2,7 @@ body {
   background-color: #755;
   color: #fef;
 }
+
+header {
+  font-size: 30px;
+}
